@@ -3,7 +3,8 @@ document.addEventListener("DOMContentLoaded", function() {
     const images = [
         // '72ce7ae3180710e31784bc7aa020fff1.jpg',
         // '648659b7a81862055569988b8c8096a7.jpg',
-        'c0f1ada11d33de0c9c3519fa9e0beba6.jpg'
+        // 'c0f1ada11d33de0c9c3519fa9e0beba6.jpg'
+        "4f74609d67acd304f8aed6bca1115681.jpg"
         // 添加更多图像文件名
     ];
 
