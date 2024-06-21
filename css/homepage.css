@@ -294,9 +294,9 @@ body {
      /*background-color: blue;*/
 }
 
-#footer a {
-    text-decoration: none;
-    color: white;
+#footer:hover {
+    background-color: rgba(255,255,255,.75);
+    color: #464646;
 }
 
 
@@ -308,14 +308,15 @@ body {
     }
 }
 
-#footer a:hover {
-    background-color: rgba(255,255,255,.75);
-    color: #464646;
+#footer a {
+    text-decoration: none;
+    color: white;
 }
 
 #footer a:hover {
     color: rgb(0, 81, 255);
 }
+
 
 /* 自适应 */
 @media screen and (max-width: 1250px) {
